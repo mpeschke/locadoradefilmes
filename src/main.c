@@ -1,3 +1,4 @@
+// Código-fonte disponível em https://github.com/mpeschke/locadoradefilmes.git
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
